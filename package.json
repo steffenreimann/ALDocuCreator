@@ -1,0 +1,19 @@
+{
+  "name": "aldocucreator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "alDocuParser.js",
+  "scripts": {
+    "app": "node alDocuParser.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steffenreimann/ALDocuCreator.git"
+  },
+  "author": "Steffen Reimann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/steffenreimann/ALDocuCreator/issues"
+  },
+  "homepage": "https://github.com/steffenreimann/ALDocuCreator#readme"
+}
