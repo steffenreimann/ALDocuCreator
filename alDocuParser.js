@@ -165,4 +165,7 @@ async function extractCommentsFromFile(filePath) {
     });
 }
 
+
+
+
 init()
